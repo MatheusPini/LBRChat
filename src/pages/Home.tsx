@@ -29,6 +29,10 @@ export function Home(){
       alert('room this not exists')
       return
     }
+    if(roomRef.val().endedAt){
+      alert('sala encerrada')
+      return
+    }
     history.push(`/rooms/${roomCode}`)
   }
   return (
