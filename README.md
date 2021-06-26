@@ -18,16 +18,16 @@
 
 <h1>Requisitos Funcionais</h1>
 
-<p>1- O Portal possui dois niveis: "administrador" e "usuario". cada sala possui seus usuarios e um administrador podendo dar permissoes extras a determinados usuarios quando quiser</p>
-<p>2- Realizar login pelo Google</p>
-<p>3- Entrar em uma sala existente (nivel de usuario dentro do chat)</p>
-<p>4- Realizar uma pergunta/comentario (nivel de usuario dentro do chat)</p>
-<p>5- Excluir perguntas/comentarios (nivel de administrador/dono da sala)</p>
-<p>6- Funcionalidade de like nas perguntas/comentarios (nivel de usuario dentro do chat)</p>
-<p>7- Dar HightLight nas perguntas/comentarios (nivel de administrador/dono da sala)</p>
-<p>8- Marcar pergunta/comentario como respondida (nivel de administrador/dono da sala)</p>
-<p>9- Botao para encerrar sala(nivel de administrador/dono da sala)</p>
-<p>10- Copiar o link de uma sala (nivel de usuario e administrador)</p>
+<p>1- O Portal possui dois niveis: "administrador" e "usuario". cada sala possui seus usuarios e um administrador podendo dar permissoes extras a determinados usuarios quando quiser :heavy_check_mark:</p>
+<p>2- Realizar login pelo Google :heavy_check_mark:</p>
+<p>3- Entrar em uma sala existente (nivel de usuario dentro do chat) :heavy_check_mark:</p>
+<p>4- Realizar uma pergunta/comentario (nivel de usuario dentro do chat) :heavy_check_mark:</p>
+<p>5- Excluir perguntas/comentarios (nivel de administrador/dono da sala) :heavy_check_mark:</p>
+<p>6- Funcionalidade de like nas perguntas/comentarios (nivel de usuario dentro do chat) :heavy_check_mark:</p>
+<p>7- Dar HightLight nas perguntas/comentarios (nivel de administrador/dono da sala) :heavy_check_mark:</p>
+<p>8- Marcar pergunta/comentario como respondida (nivel de administrador/dono da sala) :heavy_check_mark:</p>
+<p>9- Botao para encerrar sala(nivel de administrador/dono da sala) :heavy_check_mark:</p>
+<p>10- Copiar o link de uma sala (nivel de usuario e administrador) :heavy_check_mark:</p>
 <p>11  - [x] Listagem das salas pertencentes ao admin (nivel de administrador) Em construção...  🚧</p>
 <p>12- Listagem das salas que o usuario esta inserido Em construção...  🚧</p>
 <p>13- Responsividade Em construção...  🚧</p>
