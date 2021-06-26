@@ -11,3 +11,6 @@
 <h1>Requisitos Funcionais</h1>
 
 <p>1- Realizar login pelo Google</p>
+<p>2- Utilizar Realtime database para armazenar as salas, perguntas etc</p>
+<p>3- Entrar em uma sala</p>
+<p>4- realizar uma pergunta/comentario</p>
