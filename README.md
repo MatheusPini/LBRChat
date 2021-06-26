@@ -27,8 +27,8 @@
 <p>7- Dar HightLight nas perguntas/comentarios (nivel de administrador/dono da sala)</p>
 <p>8- Marcar pergunta/comentario como respondida (nivel de administrador/dono da sala)</p>
 <p>9- Botao para encerrar sala(nivel de administrador/dono da sala)</p>
-<p>10- Copiar o link de uma sala (nivel de usuario e administrador) [x]</p>
-<p>11- Listagem das salas pertencentes ao admin (nivel de administrador) Em construção...  🚧</p>
+<p>10- Copiar o link de uma sala (nivel de usuario e administrador)</p>
+<p>11  - [x] Listagem das salas pertencentes ao admin (nivel de administrador) Em construção...  🚧</p>
 <p>12- Listagem das salas que o usuario esta inserido Em construção...  🚧</p>
 <p>13- Responsividade Em construção...  🚧</p>
 <h1>Requisitos nao funcionais</h1>
