@@ -7,4 +7,4 @@
 </h1>
 <p align="center">🚀 Projeto Piloto de um chat</p>
 <img src="![image](https://user-images.githubusercontent.com/43689307/123522047-2f791b00-d691-11eb-8873-05fc2ee42dae.png)
-"/>
+" style="width: 200px; height: 300px;"/>
