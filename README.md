@@ -7,7 +7,7 @@
 </h1>
 <p align="center">🚀 Projeto Piloto de um chat</p>
 <hr>
-<h1>Hestorias/necessidades</h1>
+<h1>Estorias/necessidades</h1>
 <p>O administrador precisa de um chat/sala onde ele pode receber perguntas de alunos/companheiros de trabalho, outras equipes e responde-las. Esse usuarios terao acesso a sala atraves de um codigo, que o administrador ira fornecer a cada um deles para entrarem na sala.</p>
 <p>Para o administrador se organizar e organizar seus objetivos com o portal, ele precisará de algumas funcionalidades que permitirá gerenciar o chat da sala, sao elas: "excluir um comentario", "marcar como respondida", "destacar comentario" e "encerrar uma sala".</p>
 <p>Os usuarios poderao dar like na pergunta, assim o administrador pode saber qual comentario a comunidade quer que seja esclarecido, e no caso de o administrador achar relevante o comentario, ele poderá destacar esse comentario, dessa forma deixando bem visivel para todos os usuarios, chamando atencao de todos</p>
