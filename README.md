@@ -7,6 +7,9 @@
 </h1>
 <p align="center">🚀 Projeto Piloto de um chat</p>
 <hr>
+<h1>Requisitos NLW</h1>
+<p>Todos os requisitos para o NLW foram desenvolvidos/concluidos juntamente com o evento. Os demais serao funcionalidades que serao implementadas futuramente.
+    
 <h1>Estorias/necessidades</h1>
 <p>O administrador precisa de um chat/sala onde ele pode receber perguntas de alunos/companheiros de trabalho, outras equipes e responde-las. Esse usuarios terao acesso a sala atraves de um codigo, que o administrador ira fornecer a cada um deles para entrarem na sala.</p>
 <p>Para o administrador se organizar e organizar seus objetivos com o portal, ele precisará de algumas funcionalidades que permitirá gerenciar o chat da sala, sao elas: "excluir um comentario", "marcar como respondida", "destacar comentario" e "encerrar uma sala".</p>
@@ -15,13 +18,24 @@
 
 <h1>Requisitos Funcionais</h1>
 
-<p>1- Realizar login pelo Google</p>
-<p>2- Utilizar Realtime database para armazenar as salas, perguntas etc</p>
-<p>3- Entrar em uma sala existente</p>
-<p>4- Realizar uma pergunta/comentario</p>
-<p>5- Excluir perguntas/comentarios</p>
-<p>6- Funcionalidade de like nas perguntas/comentarios</p>
-<p>7- Dar HightLight nas perguntas/comentarios</p>
-<p>8- Marcar pergunta/comentario como respondida</p>
-<p>9- Botao para encerrar sala</p>
-<p>10- Copiar o link de uma sala</p>
+<p>1- O Portal possui dois niveis: "administrador" e "usuario". cada sala possui seus usuarios e um administrador podendo dar permissoes extras a determinados usuarios quando quiser</p>
+<p>2- Realizar login pelo Google</p>
+<p>3- Entrar em uma sala existente (nivel de usuario dentro do chat)</p>
+<p>4- Realizar uma pergunta/comentario (nivel de usuario dentro do chat)</p>
+<p>5- Excluir perguntas/comentarios (nivel de administrador/dono da sala)</p>
+<p>6- Funcionalidade de like nas perguntas/comentarios (nivel de usuario dentro do chat)</p>
+<p>7- Dar HightLight nas perguntas/comentarios (nivel de administrador/dono da sala)</p>
+<p>8- Marcar pergunta/comentario como respondida (nivel de administrador/dono da sala)</p>
+<p>9- Botao para encerrar sala(nivel de administrador/dono da sala)</p>
+<p>10- Copiar o link de uma sala (nivel de usuario e administrador)</p>
+<p>11- Listagem das salas pertencentes ao admin (nivel de administrador)</p>
+<p>12- Listagem das salas que o usuario esta inserido</p>
+<p>13- Responsividade</p>
+<h1>Requisitos nao funcionais</h1>
+
+<p>Tecnologias utilizadas nesse projeto:</p>
+<h4>ReactJS</h4>
+<h4>React-router-dom (Controle de rotas)</h4>
+<h4>Typescript</h4>
+<h4>Recursos Firebase "Realtimedatabase para armazenar as salas, perguntas etc" e "Hosting para deploy da aplicacao"</h4>
+<h4>Sass</h4>
