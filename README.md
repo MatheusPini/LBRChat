@@ -7,3 +7,7 @@
 </h1>
 <p align="center">🚀 Projeto Piloto de um chat</p>
 <hr>
+
+<h1>Requisitos Funcionais</h1>
+
+<p>1- Realizar login pelo Google</p>
