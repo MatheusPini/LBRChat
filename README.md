@@ -1,14 +1,14 @@
 
 # LBRChat
 ## Portal de comunicacao com a equipe de T.I
-
+<img src="https://github.com/MatheusPini/LBRChat/blob/main/src/assets/images/Captura%20de%20tela%202021-06-26%20155302.png"/>
 <h1 align="center">
     <a href="https://pt-br.reactjs.org/">🔗 Chat da equipe</a>
 </h1>
 <p align="center">🚀 Projeto Piloto de um chat</p>
 <hr>
 <h1>Requisitos NLW</h1>
-<p>Todos os requisitos para o NLW foram desenvolvidos/concluidos juntamente com o evento. Os demais serao funcionalidades que serao implementadas futuramente.
+<p>Todos os requisitos para o NLW foram desenvolvidos/concluidos juntamente com o evento. Os demais serao funcionalidades que estao sendo desenvolvidas para serem inseridas no projeto futuramente.
     
 <h1>Estorias/necessidades</h1>
 <p>O administrador precisa de um chat/sala onde ele pode receber perguntas de alunos/companheiros de trabalho, outras equipes e responde-las. Esse usuarios terao acesso a sala atraves de um codigo, que o administrador ira fornecer a cada um deles para entrarem na sala.</p>
